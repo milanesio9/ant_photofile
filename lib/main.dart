@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
        appBar: AppBar(
          title: Text('PHOTOFILE'),backgroundColor: Colors.lightBlueAccent
          ),
-       body: login(),
+       body: LoginPage(),
      ),
     
     );
